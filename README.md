@@ -13,7 +13,7 @@ I'm always seeking to expand my knowledge and explore new technologies. Currentl
 
 - Studying Computer Science
 - Web development
-- Improving JavaScript (JS)
+- JavaScript (JS)
 - React
 
 ## 💡 Featured Projects
