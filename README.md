@@ -42,7 +42,7 @@ I build dynamic, responsive, and engaging user interfaces. My frontend skills in
 - **Responsive Design:** Ensuring cross-device compatibility and optimal user experience.
 - **State Management:** Using tools like Redux, NgRx, and Vuex for efficient data handling.
 - **Performance Optimization:** Implementing best practices to ensure fast, smooth, and accessible interfaces.
-- 
+
 ## 💡 Featured Projects
 
 In development!
