@@ -26,6 +26,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 - Microservices
 
 ### Databases
+- MySQL
 - PostgreSQL
 
 ### DevOps & Tools
